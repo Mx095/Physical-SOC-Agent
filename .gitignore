@@ -1,0 +1,6 @@
+db_pass.py
+owner_face.npy
+models/*.onnx
+snapshots/*.jpg
+__pycache__/
+*.pyc
