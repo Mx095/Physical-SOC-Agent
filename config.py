@@ -15,7 +15,7 @@ SECOND_FACE_COOLDOWN = 10     # seconds between repeated "second face" alerts (a
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "MaPa45@$",   # <-- change this
+    "password": "your_DB_password",   # <-- change this
     "database": "physical_soc",
 }
 
